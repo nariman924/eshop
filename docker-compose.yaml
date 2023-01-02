@@ -5,7 +5,7 @@ services:
       dockerfile: Dockerfile
       context: .
     restart: always
-    user: root
+    user: root:www-data
     volumes:
       - "./app/:/var/www/html:cached"
     ports:
