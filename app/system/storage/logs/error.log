@@ -1,0 +1,14 @@
+2022-12-25 20:45:00 - PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /var/www/html/system/library/db/mysqli.php on line 7
+2022-12-25 20:45:28 - PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /var/www/html/system/library/db/mysqli.php on line 7
+2022-12-30 18:43:00 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/config.php:2) in /var/www/html/catalog/controller/startup/session.php on line 28
+2022-12-30 18:43:00 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/config.php:2) in /var/www/html/catalog/controller/startup/startup.php on line 107
+2022-12-30 18:43:00 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/config.php:2) in /var/www/html/catalog/controller/startup/startup.php on line 167
+2023-01-02 10:11:10 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/config.php:2) in /var/www/html/catalog/controller/startup/session.php on line 28
+2023-01-02 10:11:10 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/config.php:2) in /var/www/html/catalog/controller/startup/startup.php on line 107
+2023-01-02 10:11:10 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/config.php:2) in /var/www/html/catalog/controller/startup/startup.php on line 167
+2023-01-02 10:25:25 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/config.php:2) in /var/www/html/catalog/controller/startup/session.php on line 28
+2023-01-02 10:25:25 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/config.php:2) in /var/www/html/catalog/controller/startup/startup.php on line 107
+2023-01-02 10:25:25 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/config.php:2) in /var/www/html/catalog/controller/startup/startup.php on line 167
+2023-01-02 10:25:28 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/config.php:2) in /var/www/html/catalog/controller/startup/session.php on line 28
+2023-01-02 10:25:28 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/config.php:2) in /var/www/html/catalog/controller/startup/startup.php on line 107
+2023-01-02 10:25:28 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/config.php:2) in /var/www/html/catalog/controller/startup/startup.php on line 167
