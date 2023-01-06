@@ -12,3 +12,8 @@
 2023-01-02 10:25:28 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/config.php:2) in /var/www/html/catalog/controller/startup/session.php on line 28
 2023-01-02 10:25:28 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/config.php:2) in /var/www/html/catalog/controller/startup/startup.php on line 107
 2023-01-02 10:25:28 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/config.php:2) in /var/www/html/catalog/controller/startup/startup.php on line 167
+2023-01-03 17:50:08 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/admin/controller/extension/module/exchange1c.php on line 2358
+2023-01-03 17:50:10 - Включен модуль Exchange 1C 8.x версии 1.6.4.1
+2023-01-03 17:50:10 - Успешно обновлено до версии 1.6.4.2Успешно обновлено до версии 1.6.4.3Успешно обновлено до версии 1.6.4.4Успешно обновлено до версии 1.6.4.5<br /><strong>ВНИМАНИЕ! после обновления необходимо проверить все настройки и сохранить!</strong>
+2023-01-03 17:51:09 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/admin/controller/extension/module/exchange1c.php on line 2358
+2023-01-03 18:14:27 - PHP Unknown:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/admin/controller/extension/module/exchange1c.php on line 2358

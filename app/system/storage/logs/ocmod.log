@@ -1,4 +1,4 @@
-2022-12-25 21:03:12 - MOD: Modification Default
+2023-01-03 17:24:16 - MOD: Modification Default
 
 FILE: system/engine/action.php
 REGEX: ~(require|include)(_once)?\(([^)]+)~
@@ -27,6 +27,14 @@ FILE: system/library/template/twig.php
 CODE: if (is_file($file)) {
 LINE: 13
 ----------------------------------------------------------------
+MOD: DEV-OPENCART.COM —  Localcopy (Загрузка без настроек FTP)
+
+FILE: admin/controller/marketplace/install.php
+CODE: if ($safe) {
+LINE: 165
+CODE: if (is_dir($file) && !is_dir($path)) {
+LINE: 221
+----------------------------------------------------------------
 MOD: Export/Import Tool (V4.10) for OpenCart 3.x
 
 FILE: admin/controller/common/column_left.php
@@ -40,4 +48,12 @@ LINE: 8
 FILE: admin/language/ru-ru/common/column_left.php
 CODE: $_['text_backup']
 LINE: 13
+----------------------------------------------------------------
+MOD: Новогодняя гирлянда
+
+FILE: catalog/view/theme/default/template/common/header.twig
+CODE: </head>
+LINE: 90
+CODE: <header>
+LINE: 123
 ----------------------------------------------------------------

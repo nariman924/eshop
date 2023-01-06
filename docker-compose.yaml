@@ -5,11 +5,11 @@ services:
       dockerfile: Dockerfile
       context: .
     restart: always
-    user: root:www-data
+    user: 1000:1000
     volumes:
       - "./app/:/var/www/html:cached"
     ports:
-      - "80:80"
+      - "8081:80"
     networks:
       - net-opencart
   mysql-server:
