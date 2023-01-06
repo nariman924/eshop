@@ -1,2 +1,9 @@
-volumes/*
 .idea
+# exclude everything
+volumes/*
+# exception to the rule
+!volumes/.gitkeep
+# exclude everything
+storage/*
+# exception to the rule
+!storage/.gitkeep

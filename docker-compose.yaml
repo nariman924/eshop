@@ -8,6 +8,7 @@ services:
     user: 1000:1000
     volumes:
       - "./app/:/var/www/html:cached"
+      - "./storage/:/var/www/storage"
     ports:
       - "8081:80"
     networks:

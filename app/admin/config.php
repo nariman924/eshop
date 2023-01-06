@@ -1,17 +1,17 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://s9e901c42.fastvps-server.com/admin/');
-define('HTTP_CATALOG', 'http://s9e901c42.fastvps-server.com/');
+define('HTTP_SERVER', 'http://localhost:8081/admin/');
+define('HTTP_CATALOG', 'http://localhost:8081/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://s9e901c42.fastvps-server.com/admin/');
-define('HTTPS_CATALOG', 'http://s9e901c42.fastvps-server.com/');
+define('HTTPS_SERVER', 'http://localhost:8081/admin/');
+define('HTTPS_CATALOG', 'http://localhost:8081/');
 
 // DIR
 define('DIR_APPLICATION', '/var/www/html/admin/');
 define('DIR_SYSTEM', '/var/www/html/system/');
 define('DIR_IMAGE', '/var/www/html/image/');
-define('DIR_STORAGE', DIR_SYSTEM . 'storage/');
+define('DIR_STORAGE', '/var/www/storage/');
 define('DIR_CATALOG', '/var/www/html/catalog/');
 define('DIR_LANGUAGE', DIR_APPLICATION . 'language/');
 define('DIR_TEMPLATE', DIR_APPLICATION . 'view/template/');
