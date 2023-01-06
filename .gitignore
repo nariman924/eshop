@@ -1,4 +1,2 @@
 volumes/*
 .idea
-docker-compose.yaml
-Dockerfile
