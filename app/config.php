@@ -1,9 +1,9 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://localhost:8081/');
+define('HTTP_SERVER', 'http://s9e901c42.fastvps-server.com/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://localhost:8081/');
+define('HTTPS_SERVER', 'http://s9e901c42.fastvps-server.com/');
 
 // DIR
 define('DIR_APPLICATION', '/var/www/html/catalog/');
